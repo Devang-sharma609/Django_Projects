@@ -110,8 +110,14 @@ We welcome contributions to this repository! To contribute, follow these steps:
 
 Make sure your code follows the PEP8 style guide and includes appropriate tests.
 
+## Contact
+For Any Queries, feel free to contact me at: mailto:devang122indmp@gmail.com
+
 ## License 📝
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Credits
 I worked on the first project for a Hackathon with my team -- ERROR_404_v1
+
+## Contact
+For any queries feel free to mail me at: [Email](https://mailto:devang122indmp@gmail.com)
